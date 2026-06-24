@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/histoire-dun-amour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Histoire D'un Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/histoire-dun-amour/) |
+| **Get License** | [Official Music Licensing for Histoire D'un Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/histoire-dun-amour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit noire, bébé, tu brilles comme un diamant
+> Mon cœur accélère, j'suis perdu dans l'moment
+> Viens plus près, yeah, let me take you away
+> Sous les néons de Paris, on va jouer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
